@@ -24,7 +24,7 @@ A simple personal profile card app.
 5. Create main page.
 6. Optionally set a custom icon (https://pub.dev/packages/flutter_launcher_icons)
 
-<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/5a59e570-52b8-40f9-a56b-2a4d21681e5d" />
+<img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/5a59e570-52b8-40f9-a56b-2a4d21681e5d" />
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-07 at 14 49 29" src="https://github.com/user-attachments/assets/e2ba01f9-25c1-47cb-aa1b-e43bf58eac9a" />
+<img width="300" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-07 at 14 49 29" src="https://github.com/user-attachments/assets/e2ba01f9-25c1-47cb-aa1b-e43bf58eac9a" />
 
